@@ -36,6 +36,7 @@ Cons: fragile + complex manufacturing
 |优点（Advantages）|缺点（Disadvantages）|
 |---|---|
 |表面积非常大（约为螺旋式的5倍），提高分离效率|制备工艺复杂，机械强度较差，容易破裂|
+
 中空纤维结构类似毛细血管，适合气体/液体大通量传输
 
 高风险场景下需注意支撑结构和抗压性
