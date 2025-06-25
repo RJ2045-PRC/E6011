@@ -4,7 +4,7 @@
 
 #### 1 What is osmotic pressure?
 在渗透过程中，为了**阻止**溶剂（水）从低浓度的一侧流向高浓度的一侧所需要施加的**最小压力**。
-Minimine Pressure to prevent sovent flow from low concentration side to high cenentration side.
+Minimine Pressure to prevent sovent flow from low concentration side to high cenentration side
 #### 2 How does reverse osmosis work?
 Using pressure as a Driven Force, to push High concentration solution flow through membrane, to obtaine low concnetration solution
 

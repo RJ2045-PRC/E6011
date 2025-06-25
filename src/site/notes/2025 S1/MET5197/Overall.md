@@ -127,7 +127,7 @@ Fouling type
 	- Reversible (强剪切力+后冲洗)
 	- Irreversible (生化)
 
-Methods
+Method
 1. Cleaning (Chemical + Physical + Biological)
 2. Specification
 3. Operation Condition (Cross-Flow)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2025 S1/MET5197/Weekly/Week 10 - Liquid Separation Membranes/"}
 ---
 
-#### 1 Explain how the **process of reverse osmosis** operates and **what kind of pressure** is typically required to treat **seawater**.
+#### 1 Explain how the **process of reverse osmosis** operates and **what kind of pressure** is typically required to treat **seawater**
 1. Process: Overcome seawater osmosis pressure, press water through semi-permeable Membrane, reject the ions.
 2. Pressure type: larger than osmosis pressure of seawater + more for higher water flux(40-80 bar, Seawater: 25-28 bar)
 #### 2 Why do you think forward osmosis was not initially preferred for use in water purification?

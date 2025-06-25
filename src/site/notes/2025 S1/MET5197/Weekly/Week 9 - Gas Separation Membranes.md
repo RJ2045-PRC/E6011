@@ -19,7 +19,7 @@ A. permeability accounts for the thickness of the film and permeance doesn't
 
 **B. permeance accounts for the thicknss and permeability doesn't**
 
-C. permeance is used in a Robeson plot
+C. permeance is used in a Robeson plot.
 
 D. permeability is used in a Merkel plot
 

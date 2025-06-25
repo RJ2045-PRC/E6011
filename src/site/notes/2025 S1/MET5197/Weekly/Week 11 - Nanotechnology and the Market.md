@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2025 S1/MET5197/Weekly/Week 11 - Nanotechnology and the Market/"}
 ---
 
-#### 1 Define the term **technology readiness level** and descrive three various levels
+#### 1 Define the term **technology readiness level** and descrive three various levels.
 ![Pasted image 20250625133413.png|330](/img/user/Attachments/ScreenShot/Pasted%20image%2020250625133413.png)
 > To evaluate a tech from concept to practical use.
 - 1-2: Concept

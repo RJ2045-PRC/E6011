@@ -5,7 +5,7 @@
 # 1. Type, size, shape
 
 ## 1.1 Type
-### ONP.
+### ONPs
 ![Pasted image 20250624112034.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250624112034.png)
 
 ### Micelles and Liposomes

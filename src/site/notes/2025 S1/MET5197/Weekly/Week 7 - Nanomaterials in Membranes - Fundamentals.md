@@ -3,7 +3,7 @@
 ---
 
 #### 1 What is the key difference between **solubility** and **diffusivity** in membranes?
-**Solubility**: 多少目标物质(permeant molecules)能进入薄膜，意味着chemical affinity
+**Solubility**: 多少目标物质(permeant molecules)能进入薄膜，意味着chemical affinity.
 
 **Diffusivity**: 目标物质(permeant molecules)进入薄膜后的穿过薄膜的速度，通过Time lag 测量
 #### 2 How is **selectivity** defined in membranes?

@@ -4,7 +4,7 @@
 
 ## 1. **Intro**
 - Briefly intro of CLSM + why imaging at nanoscale important
-- Definition of CLSM
+- Definition of CLSM.
 - Significance in nanoscience characterisation
 > 1. What is CLSM? 
 > 2. Why using CLSM in nano-field?
