@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2025 S1/MET5197/Overall/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/2025 S1/MET5197/Overall/"}
 ---
 
 ## Lab
