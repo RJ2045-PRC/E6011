@@ -10,7 +10,9 @@
 | Coordination Number       | 8    | 12   | 12   |
 | Atoms/unit:               | 2    | 4    | 6    |
 | Atom Packing Factor (APF) | 0.68 | 0.74 | 0.74 |
+
 ![Pasted image 20250803173903.png|410](/img/user/Attachments/ScreenShot/Pasted%20image%2020250803173903.png)
+
 For HCP:  c/a = 1.633
 ![Pasted image 20250803173817.png|223](/img/user/Attachments/ScreenShot/Pasted%20image%2020250803173817.png)
 ## **Defects**
