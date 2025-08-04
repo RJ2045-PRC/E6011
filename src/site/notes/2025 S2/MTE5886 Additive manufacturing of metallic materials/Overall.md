@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2025 S2/MTE5886 Additive manufacturing of metallic materials/Overall/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/2025 S2/MTE5886 Additive manufacturing of metallic materials/Overall/"}
 ---
 
 
@@ -15,7 +15,7 @@ Point Defects
 Impurities in Solids
 Dislocations
 Grain Boundaries
-
+S
 
 ### Deformation and Strengthening of Metals 
 
