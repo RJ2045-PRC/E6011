@@ -10,7 +10,7 @@
 - 该过程Flux稳定，耗能较低
 - FO得到的Draw Solution，需要后续加工得到纯水，然而这一步限制了FO的使用
 #### 3 name three key **differences** between **reverse osmosis** and **nanofiltration**
-![Pasted image 20250625131230.png|329](/img/user/Attachments/ScreenShot/Pasted%20image%2020250625131230.png)
+![Pasted image 20250625131230.png|573](/img/user/Attachments/ScreenShot/Pasted%20image%2020250625131230.png)
 
 | 特征          | **Reverse Osmosis (RO)**                | **Nanofiltration (NF)**                           |
 | ----------- | --------------------------------------- | ------------------------------------------------- |
