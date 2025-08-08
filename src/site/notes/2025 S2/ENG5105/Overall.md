@@ -13,7 +13,6 @@ All membrane provided are MF (pore-size)
 
 - [ ] The meanning for **Conventional** 
 - [ ] Missing data of Class A spec. as TN; TP; NH3-H
-- [ ] 
 
 ## Task Info
 ### OBJ
