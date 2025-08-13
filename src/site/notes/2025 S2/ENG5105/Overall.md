@@ -5,7 +5,6 @@
 ## Updates
 #### Already done
 - Conclusion: All membrane provided are MF (pore-size)
-- 
 #### Next
 - [ ] Considering MBR
 	- [ ] Side-stream
@@ -13,6 +12,8 @@
 
 - [ ] The meanning for **Conventional** 
 - [ ] Missing data of Class A spec. as TN; TP; NH3-H
+## Mini-Task
+[[2025 S2/ENG5105/Mini_pre_01\|Mini_pre_01]]
 
 ## Task Info
 ### OBJ

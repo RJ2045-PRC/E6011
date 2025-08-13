@@ -60,6 +60,11 @@ https://ejournal2.undip.ac.id/index.php/jmm/article/view/10516
 聚偏氟乙烯（PVDF）的基本性质和应用的全面回顾
 https://link.springer.com/article/10.1007/s42114-021-00217-0
 #review 
+![Pasted image 20250814000030.png|489](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814000030.png)
+
+
+
+
 ### Brief Review of PVDF Properties and Applications Potential  
 PVDF 特性及应用潜力简述
 https://doi.org/10.3390/polym14224793

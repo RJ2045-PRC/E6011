@@ -6,7 +6,18 @@
 - **处理对象**：二级出水（BOD 18 mg/L，TSS 25 mg/L，浊度 5 NTU，pH 7.8，电导 1400 µS/cm，NH3-N 8 mg/L，TN 15 mg/L，TP 3 mg/L）
 - **产能**：10,000 m³/d；**目标回收率**：≥75%；**进水温度**：20 °C
 - **Class A 再生水硬性指标**：BOD <10 mg/L；TSS <5 mg/L；浊度 <2 NTU；pH 6–9
-- **健康指标（LRC/LRV）**：bacteria ≥6-log，virus ≥7-log，原生动物 ≥6-log（相对于原污水）
+
+| Biochemical oxygen demand (**BOD**) (mg/L) |                     <10                      |     |
+| ------------------------------------------ | :------------------------------------------: | --- |
+| Total Suspended Solids (**TSS**) (mg/L)    |                      <5                      |     |
+| **pH**                                     |                     6~9                      |     |
+| Turbidity (**NTU**)                        |                      <2                      |     |
+|                                            |                                              |     |
+| Group                                      | Total pathogen log reduction value objective |     |
+| Bacteria                                   |             **6-log** reduction              |     |
+| Viruses                                    |             **7-log** reduction              |     |
+| Protozoa                                   |             **6-log** reduction              |     |
+
 - **本次对比的 5 种膜**：
 	- PES membrane ([Microlab Scientific](https://www.microlabscientific.com/pes-membrane-product/)) with a pore size of 0.45 um 
 	- PES membrane ([Microlab Scientific](https://www.microlabscientific.com/pes-membrane-product/)) with a pore size of 0.22 um

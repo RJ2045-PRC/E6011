@@ -82,7 +82,7 @@ e – total dissolved solids
 Activated sludge + Membrane Tech
 **sMBR** or **iMBR**
 >  Side-stream / Immersed
-> ![Pasted image 20250808151730.png|191](/img/user/Attachments/ScreenShot/Pasted%20image%2020250808151730.png)
+> ![Pasted image 20250808151730.png|414](/img/user/Attachments/ScreenShot/Pasted%20image%2020250808151730.png)
 
 
 #### 3. Membrane Modules and Selection
