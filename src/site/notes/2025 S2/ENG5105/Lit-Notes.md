@@ -9,7 +9,42 @@
 三级废水处理技术：技术、经济和生命周期方面的回顾
 https://doi.org/10.3390/pr10112304
 #review 
+> [!cite] **Tertiary** Techs
+> 1. *Chlorination* 氯化
+> 	- 最后阶段**广泛**使用
+> 	- 2.5-log reduction in E. coli 大肠杆菌减少了 **2.5-log**
+> 	- 氯化消毒**不影响**二级出水的营**养成分 N 和 P**
+> 	- **最便宜**的三级处理方法之一
+> 	- 0.004 kg CO2 eq.
+> 2. *Ultraviolet Irradiation* 紫外
+> 	- **广泛**
+> 	- 双氯芬酸和贝扎纤维酸均减少了 100%；**UV/Fe2+/H2O2**
+> 3. ***Membrane Filtration* 膜**
+> 4. *Constructed Wetlands* 人工湿地
+> 	1. [Huang et al.](https://doi.org/10.1016/j.watres.2014.11.048): COD, TN, N-NH4, TP; **92.2%**, **92.7%**, **94.4%**, and **97.8%**
+> 	2. [Fang et al.](https://doi.org/10.1016/j.chemosphere.2017.01.027): COD, BOD, TN, TP, and N-NH4; **70.8%, 75.2%, 60.2%, 55.6%,** and **61.3%**
+> 	3. [Ledón et al.](https://doi.org/10.1016/j.ecolind.2016.11.014): BOD 90% 
+> 5. *Microalgae* 微藻
+> 6. *Ozonation* 臭氧化
+> 7. *Photo-Fenton* 光芬顿法
+> 	1. 运行**成本低**
+> 	2. TOC: 81%
+> 	3. **+NF = Phs nearly all**
+> 	4. **+序批式反应器 (SBR) = COD; 71%**
+> 	5. Foteinis 等人: TOC: 79%， 2.71 kg CO2eq. 降解难降解污染物方面的性能增强
+> 	6. Belalcázar-Saldarriaga 等人: COD, TOC; 55% , 35%; 0.762 kg CO2eq
 
+
+> [!cite]- **Benchmarking** of Tertiary tech
+> ![Pasted image 20250814204636.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814204636.png)
+> 
+> ![Pasted image 20250814204704.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814204704.png)
+> 
+> ![Pasted image 20250814204719.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814204719.png)
+> 
+> ![Pasted image 20250814204736.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814204736.png)
+> 
+> ![Pasted image 20250814204801.png](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814204801.png)
 
 
 
@@ -93,7 +128,7 @@ Activated sludge + Membrane Tech
 | Spiral Wound<br> | easy replacement + large scale                |                                                       |
 | Hollow Fiber     | house large membrane areas in a single module | sophistication production  <br>+ capital requirements |
 #### 4. Concentration Polarization (CP)
-- pretreatments, membrane modification, fluid management, or effective cleaning
+- pre-treatments, membrane modification, fluid management, or effective cleaning
 #### 5. Fouling and Pretreatment Strategies
 - Caused by **deposition** of suspended solids, microbes, organic materials etc. 
 - Colloidal , bio-, organic and inorganic (scaling)
@@ -111,10 +146,8 @@ Eg. [Williams and Wakeman](https://doi.org/10.1016/S0958-2118(00)80017-8): feed 
 1. Physicochemical methods such as *coagulation*, *adsorption* and *softening*
 2. Pre-filtration: use of packed bed filters, strainers, filter cloths or low pressure membranes processes
 Eg. *cloth media filter* then MF [link](https://doi.org/10.2175/106143006x101999) 
+x
 
-### Membrane-based water and wastewater treatment technologies: Issues, current trends, challenges, and role in achieving sustainable development goals, and circular economy
-膜水处理技术，问题，趋势，挑战
-https://doi.org/10.1016/j.chemosphere.2023.137993
 
 ### Treatment of Wastewater from a Food and Beverage Industry Using Conventional Wastewater Treatment Integrated with Membrane Bioreactor System: A Pilot-Scale Case Study  
 采用传统废水处理技术结合膜生物反应器系统处理食品饮料行业废水：中试案例研究

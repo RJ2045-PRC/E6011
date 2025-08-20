@@ -10,6 +10,22 @@ Which are:
 - Hydrophilic PVDF ([MDI-HVF](https://mdimembrane.com/product/products/disc-filters/disc-filters-small/pvdf-membrane-disc-filter-type-hvf/)) with a pore size of 0.2 um
 - Teflon (MDI-TF2) with a pore size of 0.2 um (unfortunately, I couldn't find the spec sheet for this, it may have been discontinued, but you can do some testing to confirm its properties)
 ## PES
+### Ultrafiltration polyanionic poly (3-sulfopropyl methacrylate) membranes with enhanced antifouling and water flux
+具有增强的防污和水通量的超滤聚阴离子聚（3-磺丙基甲基丙烯酸酯）膜
+https://doi.org/10.1002/pat.6350
+#ex 
+![|392](https://onlinelibrary.wiley.com/cms/asset/55903fdd-8076-4849-a441-e903edf4eaba/pat6350-fig-0001-m.jpg)
+> Abs: **PES** vs. **PES/PSPMA**
+
+
+> 1. 卓越的成膜性能以及优异的热稳定性、氧化稳定性和尺寸稳定性，
+> 2. 由于膜表面和颗粒之间的相对疏水性，PES 膜易受污染 [link](https://doi.org/10.1016/j.proche.2015.12.017)
+> 3. 膜本身是疏水的
+
+
+
+
+
 ### Industrial wastewater treatment using PES UF membranes containing hydrophilic additives: Experimental and modeling of fouling mechanism
 采用含亲水添加剂的 PES UF 膜处理工业废水：污染机理的实验与建模
 https://doi.org/10.1016/j.eti.2021.101701
@@ -60,7 +76,16 @@ https://ejournal2.undip.ac.id/index.php/jmm/article/view/10516
 聚偏氟乙烯（PVDF）的基本性质和应用的全面回顾
 https://link.springer.com/article/10.1007/s42114-021-00217-0
 #review 
-![Pasted image 20250814000030.png|489](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814000030.png)
+![Pasted image 20250814000030.png|527](/img/user/Attachments/ScreenShot/Pasted%20image%2020250814000030.png)
+> 1. **Tm**: 177°C (*ASTM D-3418*); **Tg**: −35°C; 50–60% 为结晶; 
+> 2. **UTS**: 35-55 (*23°C, MPa, ASTM D-638*); El: 25-500 (*23°C, %, ASTM D-638*)
+
+|          | Tg  | Tm      |
+| -------- | --- | ------- |
+| ==PES==  | 230 | 340–390 |
+| ==PVDF== | -35 | 140-170 |
+| ==PTFE== | 115 | 310–385 |
+> - PVDF 不溶于有机溶剂，极性溶剂部分可溶；强碱（NaOH; NaOCl）性容易脆化，HF 单元丟失。
 
 
 
@@ -70,10 +95,22 @@ PVDF 特性及应用潜力简述
 https://doi.org/10.3390/polym14224793
 #review 
 
+> 1. **半结晶**热塑性塑料，**分子量**高于 100,000 g/mol，**Tm**: 171-180 °C，**Tc**: 141-151 °C; **Tg**: −40 °C
+
 ### Enhancing water treatment with polyvinylidene fluoride (PVDF)/cellulose composite membranes: a comprehensive review  
 利用聚偏氟乙烯（PVDF）/纤维素复合膜强化水处理：综合综述
 https://doi.org/10.1080/25740881.2024.2391349
 #review 
+
+
+
+## Teflon PTFE
+
+
+
+
+
+
 
 
 ## Hybird
