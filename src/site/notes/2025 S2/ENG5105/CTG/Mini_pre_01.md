@@ -18,7 +18,7 @@ Buble point
 	3. 常用的机械性能
 	4. 化学稳定性（耐药性）
 
-3. Membrane for testing (2* PES; 2* PVDF; 1* PTFE)
+3. Membranes available for testing (2* PES; 2* PVDF; 1* PTFE)
 	1. 
 
 
@@ -83,12 +83,18 @@ MBR 运行了 80 天，期间进行了 11 次在线化学清洗，3 次离线化
 
 
 ## PES
+#### Basis
+https://polymers.netzsch.com/Materials/Details/42
+
+
+
+#### 
 http://dx.doi.org/10.4236/jsemat.2012.223029
 ![Pasted image 20250815175614.png|398](/img/user/Attachments/ScreenShot/Pasted%20image%2020250815175614.png)
 
 ![Pasted image 20250817160317.png|323](/img/user/Attachments/ScreenShot/Pasted%20image%2020250817160317.png)
 
-### WCA
+#### WCA
 52.3°
 ![Pasted image 20250817160227.png|452](/img/user/Attachments/ScreenShot/Pasted%20image%2020250817160227.png)
 https://doi.org/10.1016/j.apsusc.2009.10.014
@@ -109,7 +115,7 @@ https://www.mdpi.com/2073-4441/11/12/2540
 https://doi.org/10.1080/19443994.2015.1104268
 
 
-### Z potential
+#### Z potential
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0263876220303026-gr7_lrg.jpg)
 pH7;  -60.5 mV
 https://doi.org/10.1016/j.cherd.2020.07.006
@@ -121,7 +127,7 @@ https://doi.org/10.1016/j.cherd.2020.07.006
 
 ## PVDF
 
-### Contact Angle
+#### Contact Angle
 The neat PVDF membrane has the highest initial contact angle of 95.4 +- 1.5
 ![Pasted image 20250817161402.png|438](/img/user/Attachments/ScreenShot/Pasted%20image%2020250817161402.png)
 https://doi.org/10.1039/C2JM30695F
@@ -147,11 +153,11 @@ Teflon/PVDF: 120-130°
 https://doi.org/10.1016/j.psep.2022.10.020
 
 
-### 
+####
 
 
 ## PTFE
-### WCA CA
+#### WCA CA
 
 108 °
 ![Pasted image 20250817164550.png|360](/img/user/Attachments/ScreenShot/Pasted%20image%2020250817164550.png)
@@ -171,9 +177,9 @@ https://doi.org/10.3390/polym11040590
 
 
 
-### 
+####
 
-### Case
+## Case
 #### Case 1 **Submerged MBR system** in India
 [SUMITOMO- Poreflon PTFE – Submerge MBR Membrane](https://blufoxmembranes.com/submerge-type-poreflon-module/#:~:text=Example%20of%20water%20quality%20Tolerance,%EF%BC%9C300mg%2FL%20%20%EF%BC%9C5mg%2FL)
 ![Pasted image 20250817172529.png|531](/img/user/Attachments/ScreenShot/Pasted%20image%2020250817172529.png)
